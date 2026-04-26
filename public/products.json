@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Starter Resume Tool",
+    "description": "Basic digital resume builder with essential templates for beginners.",
+    "price": 0,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "highlight",
+    "features": ["5 templates", "Basic editing", "Export to PDF"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/2991/2991108.png"
+  },
+  {
+    "id": 2,
+    "name": "Pro Resume Builder",
+    "description": "Advanced online resume builder with ATS-friendly templates.",
+    "price": 9.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "badge",
+    "features": ["50+ templates", "ATS optimization", "Export to PDF"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+  },
+  {
+    "id": 3,
+    "name": "Career Toolkit",
+    "description": "Complete digital toolkit with resume, cover letter, and portfolio builder.",
+    "price": 19.99,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "badge",
+    "features": ["100+ templates", "Cover letter builder", "Portfolio hosting"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/1055/1055687.png"
+  },
+  {
+    "id": 4,
+    "name": "Executive Career Suite",
+    "description": "Premium digital tools for professionals and executives.",
+    "price": 49.99,
+    "period": "yearly",
+    "tag": "premium",
+    "tagType": "highlight",
+    "features": ["Elite templates", "Personal branding tools", "Priority support"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/1828/1828884.png"
+  },
+  {
+    "id": 5,
+    "name": "Student Resume Tool",
+    "description": "Affordable online resume builder designed for students.",
+    "price": 4.99,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "badge",
+    "features": ["10 templates", "Internship layouts", "Export to PDF"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135755.png"
+  },
+  {
+    "id": 6,
+    "name": "Freelancer Portfolio Builder",
+    "description": "Create professional digital portfolios for freelance work.",
+    "price": 14.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "highlight",
+    "features": ["Portfolio builder", "Client showcase", "Custom domains"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/1006/1006771.png"
+  },
+  {
+    "id": 7,
+    "name": "Lifetime Resume Pro",
+    "description": "One-time purchase for lifetime access to resume tools.",
+    "price": 29.99,
+    "period": "one-time",
+    "tag": "best seller",
+    "tagType": "badge",
+    "features": ["Unlimited templates", "ATS optimization", "Lifetime updates"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/1828/1828640.png"
+  },
+  {
+    "id": 8,
+    "name": "Interview Prep Platform",
+    "description": "Digital platform for interview practice and preparation.",
+    "price": 12.99,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "highlight",
+    "features": ["Mock interviews", "Question bank", "Resume feedback"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3209/3209265.png"
+  },
+  {
+    "id": 9,
+    "name": "Job Tracker Dashboard",
+    "description": "Track and manage job applications digitally.",
+    "price": 24.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "badge",
+    "features": ["Job tracking", "Application analytics", "Resume builder"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/1828/1828925.png"
+  },
+  {
+    "id": 10,
+    "name": "AI Career Assistant",
+    "description": "AI-powered digital tool for career growth and resume optimization.",
+    "price": 59.99,
+    "period": "yearly",
+    "tag": "premium",
+    "tagType": "highlight",
+    "features": ["AI suggestions", "Career roadmap", "Skill analysis"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/4712/4712100.png"
+  }
+]
