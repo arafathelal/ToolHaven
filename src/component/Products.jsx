@@ -6,7 +6,7 @@ const Products = ({ productPromise, carts, setCarts }) => {
   // const [carts, setCarts] = useState([]);
 
   return (
-    <div className="px-6 py-12 bg-gray-50 min-h-screen">
+    <div id="products" className="px-6 py-12 bg-gray-50 min-h-screen">
       {/* <div className="text-center mb-12">
         <h1 className="text-4xl font-bold text-gray-800">
           Premium Digital Tools
